@@ -1,0 +1,94 @@
+/* ______zad_8__________________ */
+#zad8{
+    width: 100%;
+    margin: 0px auto;
+    padding: 0px;
+    text-align: justify;
+    font-weight: bolder ;
+    font-family: arial;
+}
+#zad8 #border{
+    border: 1px solid orange;
+}
+#m1{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+#m2{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+
+}
+#zad8 #m1 li{
+    /* display: inline-block;
+    padding-right: 0px; */
+    float: left;
+}
+#zad8 #m2 li{
+    display: inline;
+    padding: 10px;
+}
+#menu2{
+    background-color: orange;
+    height: 50px;
+
+}
+#menu3{
+    text-align: center;
+
+}
+#zad8 h1,#zad8 h2{
+    text-align: center;
+    color: rgb(196, 142, 44);
+}
+#zad8 p{
+    padding: 0px 10px;
+    color: rgb(196, 142, 44);
+    text-indent: 50px;
+}
+#zad8 #menu2 a:link,#zad8 #menu2 a:visited{
+    text-decoration: none;
+    color: white;
+    display: block;
+    line-height: 55px;
+    padding: 0px 20px;
+}
+#menu2 #home a:link, #menu2 #home a:visited{
+    text-decoration: none;
+    color:orange;
+    display: block;
+    line-height: 55px;
+    padding: 0px 20px;
+    background-color: white;
+}
+#zad8 #menu2 a:hover{
+    text-decoration: none;
+    color:orange;
+    display: block;
+    line-height: 55px;
+    padding: 0px 20px;
+    background-color: white;
+}
+#zad8  a:link.orange,#zad8  a:visited.orange{
+    color:rgb(196, 142, 44);
+    font-weight: bold;
+}
+#zad8  a:hover.orange{
+    color:black;
+    font-weight: bold;
+}
+#menu3 a:link,#menu3 a:visited{
+    color:rgb(156, 122, 58);
+    text-decoration: none;
+    font-size: smaller;
+}
+#menu3 a:hover{
+    color:black;
+font-size: smaller;
+}
+
+
+
+
