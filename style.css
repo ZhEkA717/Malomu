@@ -327,11 +327,11 @@ to{
 
 
 .address::before{
-    content: url("../fon_images/location-marker.png");
+    content: url("fon_images/location-marker.png");
 }
 .mobile-phone::before{
-    content: url("../fon_images/phone.png");
+    content: url("fon_images/phone.png");
 }
 .email::before{
-    content: url(../fon_images/mail.png); 
+    content: url("fon_images/mail.png"); 
 }
