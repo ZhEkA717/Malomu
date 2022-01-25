@@ -173,6 +173,8 @@ to{
     color: orange;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-indent: 70px;
+    font-family: Mistral;
+    font-weight: initial;
 }
 
 #content-music{
@@ -267,13 +269,13 @@ to{
 .content-video__text{
     background-color: rgb(37, 39, 41);
 }
-.content__container{
+/* .content__container{
     max-width: 1200px;
     margin: 0px auto;
     padding: 50px 15px;
     font-size: 18px;
     line-height: 150%;
-}
+} */
 .content__container p{
     margin: 0px 0px 20px 0px;
     color: orange;
